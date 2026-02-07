@@ -69,7 +69,7 @@ class Model:
                 result = i
         if len(result) == 0:
             return "Error, ID not found"
-        self.updateCSV(data, 'Model/Politicians.csv')
+        self.updateCSV(data, 'Model/Promises.csv')
         return "Success"
 
     def findPolitician(self,id):
