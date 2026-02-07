@@ -1,0 +1,11 @@
+promise_id,politician_id,promise_description,announcement_date,promise_status
+P001,12345678,Improve public healthcare system,2023-01-15,In Progress
+P002,12345678,Reduce income tax for middle class,2023-02-10,Not Started
+P003,23456789,Promote renewable energy nationwide,2023-01-20,In Progress
+P004,23456789,Ban single-use plastics,2023-03-05,Abandoned
+P005,34567891,Increase minimum wage,2023-02-01,In Progress
+P006,34567891,Create new job opportunities for youth,2023-03-12,Not Started
+P007,45678912,Improve public transportation,2023-01-25,In Progress
+P008,45678912,Provide free internet in rural areas,2023-04-01,Abandoned
+P009,56789123,Enhance national security,2023-02-18,Not Started
+P010,56789123,Support small and medium enterprises,2023-03-22,In Progress
